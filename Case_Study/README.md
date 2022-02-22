@@ -3,8 +3,8 @@
 ## Description
 
 * RFID based attendance system has very simple circuit design. The RFID Reader has transmit and receive pins.
-* These pins are connected to the transmit and receive pins of the micro controller i.e. PD0 and PD1 pins of microcontroller.
-* VCC is connected to 5v and GND is connected to ground.
+* Recieves Data from RFID data card sends to microcontroller.
+* Data is verified and attendance is added 
 
 ## High Level Reuirements
 
