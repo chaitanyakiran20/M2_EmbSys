@@ -12,7 +12,6 @@
 |:---------------:|:----------------------:|
 |       HL_1      |    Count Attendance    |
 |       HL_2      | Verify Incoming people |
-|       HL_3      |  Count people leaving  |
 
 ## Low Level Requirements
 
@@ -20,7 +19,6 @@
 |:---------------:|:------------------------------------------------:|
 |       LL_1      |            Add count to previous input           |
 |       LL_2      | Scan rfid input and send data to microcontroller |
-|       LL_3      |        Subtract count when people leaving        |
 
 ## Swot Analysis
 
