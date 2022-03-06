@@ -24,15 +24,4 @@
 
 ## Swot Analysis
 
-# Strengths
-* Detect Fake people entering(people outside the organisation) 
-* keep a count of visitors and staff
-
-# Weakness
-* If the card was swiped for more than once, there is a chance of giving attendance for next days also if code is not written properly
-
-# Oppurtunities
-* RFID based attendance system can be used in educational institutions, industries, anywhere
-
-# Threats
-* There is a chance of misusing the cards. One person can give another person’s attendance if he/she had RFID card
+![swot m2embsys](https://user-images.githubusercontent.com/34639178/156912505-72b86ccd-4c57-41bc-87f5-06a41fdcd9b5.JPG)
